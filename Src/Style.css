@@ -1,0 +1,39 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#myAnchorPane{
+    -fx-background: #D3E1E2;
+}
+#btn{
+    -fx-cursor: hand;
+    -fx-background-radius: 50px;
+
+    -fx-border-radius: 50px;
+   
+    -fx-background-color: #407c87;
+    -fx-text-fill:white;
+    -fx-font-weight: 900;
+
+}
+
+#btn:hover{
+    -fx-background-color: #D3E1E2;
+    -fx-border-color: #407c87;
+  -fx-text-fill: black;
+}
+
+#titulo{
+    -fx-font-weight: 900;
+    -fx-text-transform: uppercase;
+    -fx-text-fill: black;
+    -fx-text-align: center;
+}
+
+#mylabel{
+    -fx-font-weight: 900;
+}
+#mytxt{
+    -fx-border-color: #407c87;
+    -fx-background-color: -fx-text-box-border, -fx-control-inner-background;
+}
