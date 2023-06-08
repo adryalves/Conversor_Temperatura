@@ -5,3 +5,7 @@ Conversor de temperatura Celsius e Fahrenheit utilizando a linguagem de programa
 
 Modificado
 
+## Local Development
+
+1. Open Principal in your browser
+
